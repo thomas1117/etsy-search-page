@@ -36,7 +36,7 @@ How to incorporate an icon into your code:
 
 `<i class="fa fa-times"></i>`
 
-\*\* MAKE SURE TO REMOVE THE `s` in `fas` or it will not work properly.
+\*\* MAKE SURE TO REMOVE THE `s` in `fas` or it will not work properly. \*\*
 
 ## Resources
 
