@@ -23,17 +23,20 @@ Re-Create An Etsy Page - https://www.etsy.com/search?q=whiskey
 > Note: Use font-awesome for all the icons
 > https://fontawesome.com/icons?d=gallery
 
-Example for using an icon:
+## Example for using a font-awesome icon:
+
 Put this <link> in your HTML head to import font-awesome:
 
-<link
+`<link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
-/>
+/>`
 
 How to incorporate an icon into your code:
+
 `<i class="fa fa-times"></i>`
-\*\* MAKE SURE TO REMOVE THE `s` in `fas` or it will not work properly.
+
+\*\* MAKE SURE TO REMOVE THE `s` in `fas` or it will not work properly. \*\*
 
 ## Resources
 
